@@ -1,2 +1,2 @@
 # Interval Game
- a game project for a colab between spilldesign and musik
+ from my fatus to clive my beloved
