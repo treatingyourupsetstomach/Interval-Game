@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FailCounter : MonoBehaviour
+public class PlayScript : MonoBehaviour
 {
+    public AudioSource audioclip;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -14,5 +16,11 @@ public class FailCounter : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void playSoundEffect()
+    {
+        audioclip.Play();
+
     }
 }
