@@ -1,2 +1,2 @@
 # Interval Game
- from my fatus to clive my beloved
+ from my fetus to clive my beloved
